@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/koushik-ms/vending-machine-kata-bootstrap)](https://repl.it/github/koushik-ms/vending-machine-kata-bootstrap)
+
 Vending Machine Kata
 ====================
 
