@@ -1,6 +1,6 @@
 import unittest
 
-class VendinMachineTestCase(unittest.TestCase):
+class VendingMachineTestCase(unittest.TestCase):
   # Any function inside this class whose name 
   # starts with 'test...' is a test
   def test_the_answer(self):
