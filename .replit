@@ -1,2 +1,2 @@
-language = "python3"
+language = "bash"
 run = "python -m unittest vending_machine_tests.py"
